@@ -1,23 +1,23 @@
 {
   "domain": "leandrade.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#ff3e89",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#fafafa",
   "logo": "/img/uploads/capanovasite.png",
   "name": "leandrade",
   "short_name": "leandrade",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/abertura256.jpg",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/abertura256.jpg",
   "store_id": 1231,
   "description": "leandrade",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/abertura.jpg"
 }
