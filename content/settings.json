@@ -8,8 +8,8 @@
   },
   "bg_color": "#fafafa",
   "logo": "/img/uploads/capakyte.jpg",
-  "name": "leandrade",
-  "short_name": "leandrade",
+  "name": "Le Andrade",
+  "short_name": "Le Andrade",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -18,6 +18,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/uploads/abertura256.jpg",
   "store_id": 1231,
-  "description": "leandrade",
+  "description": "le andrade",
   "large_icon": "/img/uploads/abertura.jpg"
 }
