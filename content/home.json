@@ -7,22 +7,12 @@
       "enabled": true
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2021-06-04T15:14:32.187Z",
-      "end": "2021-06-04T16:15:02.112Z",
-      "offers": [
-        "60ba2f449c7cb4299aa23c2d"
-      ],
-      "notes": "Aproveite essa SUPER OFERTA por tempo limitado!"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": "",
       "page": 1,
       "collection_id": null,
-      "headless": true
+      "headless": false
     },
     {
       "type": "page-title",
