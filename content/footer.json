@@ -39,8 +39,9 @@
     "santander": false,
     "mastercard": true,
     "citibank": false,
+    "hiper": true,
     "mais": false,
-    "amex": false,
+    "amex": true,
     "itau": false
   },
   "credits": ""
