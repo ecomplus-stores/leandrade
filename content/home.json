@@ -18,22 +18,15 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
+      "limit": "",
+      "page": 1,
       "collection_id": null,
-      "limit": 12,
-      "page": 1
+      "headless": true
     },
     {
       "type": "page-title",
       "title": "",
       "description": ""
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "collection_id": null,
-      "headless": true
     }
   ]
 }
