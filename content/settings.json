@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#ff3e89",
   "theme": {
-    "bootswatch": "materia",
-    "custom": "_"
+    "bootswatch": "minty",
+    "custom": "clean-gray"
   },
   "bg_color": "#fafafa",
   "logo": "/img/uploads/capakyte.jpg",
@@ -18,6 +18,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/uploads/abertura256.jpg",
   "store_id": 1231,
-  "description": "le andrade",
+  "description": "A empresa foi criada visando o diferencial de looks com qualidade para proporcionar o bem-estar e a satisfação da mulher. Pensando no conforto da cliente a empresa foi projetada com um ambiente moderno, aconchegante e todo refrigerado. Looks Feminino do básico ao elegante com qualidade você encontra aqui.",
   "large_icon": "/img/uploads/abertura.jpg"
 }
