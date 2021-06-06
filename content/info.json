@@ -1,18 +1,18 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "FRETE GRÁTIS para Rondônia acima de R$200"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros!"
+    "text": "Parcele em 6X SEM JUROS!"
   },
   "exchange": {
     "show": false,
     "text": ""
   },
   "promo": {
-    "show": false,
-    "text": "Diferentes promoções ao longo do ano!"
+    "show": true,
+    "text": "15% OFF na sua primeira compra"
   }
 }
