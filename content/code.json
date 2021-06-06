@@ -1,5 +1,5 @@
 {
-  "css": ".banners-grid.my-3.my-md-4.my-lg-5 div.col-12.col-lg-6.mb-3.mb-lg-0 {\n    max-width: 50%;\n    flex: 0 0 50%;\n    padding-right: 10px;\t \n    padding-left: 10px;\t\n  }\n\n@media(min-width: 600px) {\n  #logo {\n    max-height: 120px !important;\n  } \n} \n\n@media (max-width: 465px) {\n.info-bar__item{\n  font-size: 50%;\n  max-width: 13vw;\n\n}\n}",
+  "css": ".banners-grid.my-3.my-md-4.my-lg-5 div.col-12.col-lg-6.mb-3.mb-lg-0 {\n    max-width: 50%;\n    flex: 0 0 50%;\n    padding-right: 10px;\t \n    padding-left: 10px;\t\n  }\n\n@media(min-width: 600px) {\n  #logo {\n    max-height: 120px !important;\n  } \n} \n\n@media (max-width: 765px) {\n.info-bar__item{\n  font-size: 80%;\n  max-width: 18vw;\n\n}\n}",
   "html_head": "",
   "html_body": ""
 }
