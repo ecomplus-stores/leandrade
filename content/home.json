@@ -1,7 +1,18 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Le Andrade | Loja De Roupas | Rondônia",
+  "meta_description": "A empresa foi criada visando o diferencial de looks com qualidade para proporcionar o bem-estar e a satisfação da mulher.",
   "sections": [
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/capanovasite.png"
+        }
+      ]
+    },
     {
       "type": "info-bar",
       "enabled": true
@@ -15,9 +26,23 @@
       "headless": false
     },
     {
-      "type": "page-title",
-      "title": "",
-      "description": ""
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/rect8589.png"
+        },
+        {
+          "img": "/img/uploads/rect859.png"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": "",
+      "page": 1,
+      "collection_id": "60ba3cb39c7cb4299aa24934:categories:VESTIDOS:/vestidos",
+      "sort": "views"
     }
   ]
 }
