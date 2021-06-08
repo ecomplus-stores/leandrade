@@ -14,8 +14,9 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
+      "type": "responsive-banner",
+      "mobile_img": "/img/uploads/barra-info.webp",
+      "img": "/img/uploads/barra-infoweb.webp"
     },
     {
       "type": "collection-shelf",
