@@ -24,7 +24,8 @@
       "limit": "",
       "page": 1,
       "collection_id": null,
-      "headless": false
+      "headless": false,
+      "title": "LOOKS MAIS DESEJADOS"
     },
     {
       "type": "banners-grid",
@@ -36,6 +37,13 @@
           "img": "/img/uploads/rect859.png"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": "",
+      "page": 1,
+      "collection_id": "60ba41299c7cb4299aa24e3d:collections:OFERTAS:/ofertas"
     },
     {
       "type": "collection-shelf",
