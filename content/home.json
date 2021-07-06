@@ -9,6 +9,11 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/bannerloja2.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/bannerloja.jpg"
         },
         {
@@ -17,11 +22,6 @@
           "img": "/img/uploads/capanovasite.webp"
         }
       ]
-    },
-    {
-      "type": "responsive-banner",
-      "mobile_img": "/img/uploads/barra-info.webp",
-      "img": "/img/uploads/barra-infoweb.webp"
     },
     {
       "type": "collection-shelf",
@@ -64,6 +64,11 @@
       "limit": "",
       "page": 1,
       "collection_id": "60ba32129c7cb4299aa23fb7:categories:BLUSAS:/blusas"
+    },
+    {
+      "type": "responsive-banner",
+      "mobile_img": "/img/uploads/barra-info.webp",
+      "img": "/img/uploads/barra-infoweb.webp"
     },
     {
       "type": "collection-shelf",
