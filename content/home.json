@@ -4,8 +4,13 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 3000,
       "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/bannerloja.jpg"
+        },
         {
           "start": "",
           "end": "",
@@ -25,7 +30,7 @@
       "page": 1,
       "collection_id": null,
       "headless": false,
-      "title": "LOOKS MAIS DESEJADOS"
+      "title": "LOOKS MAIS VISUALIZADOS"
     },
     {
       "type": "banners-grid",
