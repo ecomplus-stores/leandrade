@@ -3,23 +3,18 @@
   "meta_description": "A empresa foi criada visando o diferencial de looks com qualidade para proporcionar o bem-estar e a satisfação da mulher.",
   "sections": [
     {
-      "type": "responsive-banner",
-      "mobile_img": "/img/uploads/barra-info.gif",
-      "img": "/img/uploads/barra-infoweb1.webp"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 3000,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/bannerloja3.webp"
+          "img": "/img/uploads/bannerloja5.webp"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/bannerloja4.webp"
+          "img": "/img/uploads/bannerloja6.webp"
         },
         {
           "start": "",
@@ -27,6 +22,11 @@
           "img": "/img/uploads/capanovasite.webp"
         }
       ]
+    },
+    {
+      "type": "responsive-banner",
+      "mobile_img": "/img/uploads/barra-info.gif",
+      "img": "/img/uploads/barra-infoweb1.webp"
     },
     {
       "type": "collection-shelf",
