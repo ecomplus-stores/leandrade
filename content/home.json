@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 3000,
+      "autoplay": 2000,
       "slides": [
         {
           "start": "",
@@ -14,7 +14,17 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/banner_frete_br.webp"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/bannerloja6.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner_frete_ro.webp"
         },
         {
           "start": "",
