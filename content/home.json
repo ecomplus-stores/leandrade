@@ -51,27 +51,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/rect8589.png"
+          "img": "/img/uploads/rect8589.png",
+          "alt": "BODY"
         },
         {
-          "img": "/img/uploads/rect859.png"
+          "img": "/img/uploads/rect859.png",
+          "alt": "CROPPED"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": "",
-      "page": 1,
-      "collection_id": "60ba41299c7cb4299aa24e3d:collections:OFERTAS:/ofertas"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": "",
-      "page": 1,
-      "collection_id": "60ba3cb39c7cb4299aa24934:categories:VESTIDOS:/vestidos",
-      "sort": "views"
     },
     {
       "type": "collection-shelf",
@@ -85,8 +72,51 @@
       "shuffle": false,
       "limit": "",
       "page": 1,
-      "collection_id": "6047bf3f6d50911b60598ac7:categories:CONJUNTOS:/conjuntos",
+      "collection_id": "60ba3bcb9c7cb4299aa24850:categories:BOLSAS:/bolsas",
       "sort": "views"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": "",
+      "page": 1,
+      "collection_id": "60ba3c7c9c7cb4299aa2490a:categories:CALÇAS:/calcas"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": "",
+      "page": 1,
+      "collection_id": "6047bf3f6d50911b60598ac7:categories:CONJUNTOS:/conjuntos"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": "",
+      "page": 1,
+      "collection_id": "60ba3c8f9c7cb4299aa2491c:categories:MACACÕES:/macacoes",
+      "sort": "views"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": "",
+      "page": 1,
+      "collection_id": "60ba3ca09c7cb4299aa24926:categories:SAIAS:/saias"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": "",
+      "page": 1,
+      "collection_id": "60ba3ca79c7cb4299aa2492b:categories:SHORTS:/shorts"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": "",
+      "page": 1,
+      "collection_id": "60ba3cb39c7cb4299aa24934:categories:VESTIDOS:/vestidos"
     },
     {
       "type": "page-title"
