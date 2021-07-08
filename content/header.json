@@ -9,6 +9,10 @@
       {
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
+      },
+      {
+        "link": "/pages/contato",
+        "title": "Contato"
       }
     ],
     "phone_wpp": true,
@@ -16,7 +20,7 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 10,
+    "random": 17,
     "full_width": true
   },
   "search_input": true
