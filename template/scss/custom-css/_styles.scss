@@ -7,7 +7,6 @@
   font-size: var(--font-size);
 }
 .product-card__prices .prices__discount {
- 
   font-size: var(--font-size-lg);
 }
 .product-card__prices .prices__value {
@@ -16,7 +15,8 @@
 .product-card__prices .prices__discount span,
 .product__prices .prices__discount span {
   color: #ff3e89;
+  font-weight: bold;
 }
 .breadcrumb-item a {
-    color: #000;
+  color: #000;
 }
