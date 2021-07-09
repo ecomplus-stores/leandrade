@@ -94,6 +94,13 @@
       "shuffle": false,
       "limit": "",
       "page": 1,
+      "collection_id": "60e76e24f8aba90b3a135141:categories:INVERNO:/inverno"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": "",
+      "page": 1,
       "collection_id": "60ba3c8f9c7cb4299aa2491c:categories:MACACÕES:/macacoes",
       "sort": "views"
     },
@@ -117,6 +124,13 @@
       "limit": "",
       "page": 1,
       "collection_id": "60ba3cb39c7cb4299aa24934:categories:VESTIDOS:/vestidos"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": "",
+      "page": 1,
+      "collection_id": "60e76e00f8aba90b3a13511a:categories:OFERTAS:/ofertas"
     },
     {
       "type": "page-title"
