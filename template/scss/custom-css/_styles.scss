@@ -1,1 +1,22 @@
 // Add your custom CSS here.
+
+.product__prices .prices__discount {
+  font-size: var(--h1);
+}
+.product__prices .prices__value {
+  font-size: var(--font-size);
+}
+.product-card__prices .prices__discount {
+ 
+  font-size: var(--font-size-lg);
+}
+.product-card__prices .prices__value {
+  font-size: var(--font-size-sm);
+}
+.product-card__prices .prices__discount span,
+.product__prices .prices__discount span {
+  color: #ff3e89;
+}
+.breadcrumb-item a {
+    color: #000;
+}
