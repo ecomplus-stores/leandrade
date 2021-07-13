@@ -51,14 +51,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/body.webp",
+          "img": "/img/uploads/bodyweb.webp",
           "alt": "BODY",
-          "link": "https://leandrade.netlify.app/body"
+          "link": "https://leandrade.netlify.app/body",
+          "mobile_img": "/img/uploads/body.webp"
         },
         {
-          "img": "/img/uploads/cropped.webp",
+          "img": "/img/uploads/croppedweb.webp",
           "alt": "CROPPED",
-          "link": "https://leandrade.netlify.app/cropped"
+          "link": "https://leandrade.netlify.app/cropped",
+          "mobile_img": "/img/uploads/cropped.webp"
         }
       ]
     },
