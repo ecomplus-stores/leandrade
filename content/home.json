@@ -51,12 +51,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/rect8589.png",
-          "alt": "BODY"
+          "img": "/img/uploads/body.webp",
+          "alt": "BODY",
+          "link": "https://leandrade.netlify.app/body"
         },
         {
-          "img": "/img/uploads/rect859.png",
-          "alt": "CROPPED"
+          "img": "/img/uploads/cropped.webp",
+          "alt": "CROPPED",
+          "link": "https://leandrade.netlify.app/cropped"
         }
       ]
     },
