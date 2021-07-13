@@ -1,5 +1,5 @@
 {
-  "css": ".banners-grid.my-3.my-md-4.my-lg-5 div.col-12.col-lg-6.mb-3.mb-lg-0 {\n    max-width: 50%;\n    flex: 0 0 50%;\n    padding-right: 10px;\t \n    padding-left: 10px;\t\n  }\n\n@media(min-width: 600px) {\n  #logo {\n    max-height: 100px !important;\n  } \n}\n.fa-chevron-right{\n  color: #ff3e89;\n}\n.fa-chevron-left{\n  color: #ff3e89;\n}\n.header__toggler-icon{\n  font-size: 1.7rem;\n}\n.list-group-item.active{\n  background-color: #ff3e89;\n}",
+  "css": ".banners-grid.my-3.my-md-4.my-lg-5 div.col-12.col-lg-6.mb-3.mb-lg-0 {\n    max-width: 50%;\n    flex: 0 0 50%;\n    padding-right: 10px;\t \n    padding-left: 10px;\t\n  }\n\n@media(min-width: 600px) {\n  #logo {\n    max-height: 100px !important;\n  } \n}\n.fa-chevron-right{\n  color: #ff3e89;\n}\n.fa-chevron-left{\n  color: #ff3e89;\n}\n.header__toggler-icon{\n  font-size: 1.7rem;\n}\n.list-group-item.active{\n  background-color: #ff3e89;\n}\n.badge-info .payment__installment{\nbackground-color: #ff3e89;\n}",
   "html_head": "",
   "html_body": "<script>  storefront.on('widget:@ecomplus/widget-minicart', function () {setTimeout(function () {document.getElementById('product-payment').classList.add('show')}, 1000);});</script>\n"
 }
