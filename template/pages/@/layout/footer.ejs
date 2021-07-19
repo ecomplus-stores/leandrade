@@ -140,15 +140,14 @@ const networksWithColors = [
         <div class="col-12 col-sm-6 col-lg col-xl-auto px-xl-4">
           <a
             class="footer__title"
-            data-toggle="collapse"
             href="#footer-categories"
             role="button"
-            aria-expanded="false"
+            aria-expanded="true"
             aria-controls="footer-categories"
           >
             <%= footer.links_2.title || _.dictionary('categories') %>
           </a>
-          <div class="collapse" id="footer-categories">
+          <div class="collapse show" id="footer-categories">
             <% if (footer.links_2.list_categories) { %>
               <ul class="footer__links">
                 <% _.categories.forEach(({ name, slug, parent }) => { %>
