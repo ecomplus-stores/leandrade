@@ -22,8 +22,13 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection"
+      "src": "/img/uploads/ssl.png",
+      "alt": "conexão segura",
+      "link": "https://www.ssllabs.com/ssltest/analyze.html?d=leandrade.com.br"
+    },
+    {
+      "src": "/img/uploads/google-navegacao-segura.webp",
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=leandrade.com.br"
     }
   ],
   "payment_methods": {
