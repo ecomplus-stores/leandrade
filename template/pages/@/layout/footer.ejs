@@ -13,6 +13,7 @@ const networksWithColors = [
   ['pinterest', '#bd081c'],
   ['linkedin', '#0073b1']
 ]
+const { path } = _.route
 %>
 
 <footer class="footer py-3 py-lg-4 py-xl-5">
@@ -177,9 +178,14 @@ const networksWithColors = [
       <% } %>
 
       <div class="col-12 col-xl order-lg-first">
-        <h2 class="footer__title footer__store">
-          <%= footer.description.title || _.settings.name %>
-        </h2>
+        <div class="name-loja">
+          <h2 class="footer__title footer__store">
+            <%= footer.description.title || _.settings.name %>
+          </h2>
+          <% if (path === '/' || path === '/index') { %> 
+            - <h1 class="footer__title footer__store">Moda Feminina</h1>
+          <% } %>
+        </div>
         <p><%- footer.description.text || _.settings.description %></p>
 
         <div class="mt-4 mb-3">
