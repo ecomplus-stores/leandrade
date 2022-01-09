@@ -31,12 +31,8 @@
           "end": "",
           "img": "/img/uploads/capanovasite.webp"
         }
-      ]
-    },
-    {
-      "type": "responsive-banner",
-      "mobile_img": "/img/uploads/barra-info1.gif",
-      "img": "/img/uploads/barra-infoweb.gif"
+      ],
+      "full_width": true
     },
     {
       "type": "collection-shelf",
