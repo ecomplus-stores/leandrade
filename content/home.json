@@ -32,7 +32,7 @@
           "img": "/img/uploads/capanovasite.webp"
         }
       ],
-      "full_width": true
+      "full_width": false
     },
     {
       "type": "collection-shelf",
