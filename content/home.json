@@ -49,13 +49,13 @@
         {
           "img": "/img/uploads/bodyweb.webp",
           "alt": "BODY",
-          "link": "https://leandrade.netlify.app/body",
+          "link": "https://leandrade.com.br/body",
           "mobile_img": "/img/uploads/body.webp"
         },
         {
           "img": "/img/uploads/croppedweb.webp",
           "alt": "CROPPED",
-          "link": "https://leandrade.netlify.app/cropped",
+          "link": "https://leandrade.com.br/cropped",
           "mobile_img": "/img/uploads/cropped.webp"
         }
       ]
