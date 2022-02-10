@@ -34,5 +34,6 @@
     "random": 0,
     "full_width": true
   },
+  "desktop_megamenu": true,
   "search_input": true
 }
