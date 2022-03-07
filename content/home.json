@@ -44,23 +44,6 @@
       "title": "LOOKS MAIS VISUALIZADOS"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/bodyweb.webp",
-          "alt": "BODY",
-          "link": "https://leandrade.com.br/body",
-          "mobile_img": "/img/uploads/body.webp"
-        },
-        {
-          "img": "/img/uploads/croppedweb.webp",
-          "alt": "CROPPED",
-          "link": "https://leandrade.com.br/cropped",
-          "mobile_img": "/img/uploads/cropped.webp"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": "",
