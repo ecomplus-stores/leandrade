@@ -20,6 +20,14 @@
       "full_width": false
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": "",
+      "page": 1,
+      "collection_id": "60ba3cb39c7cb4299aa24934:categories:VESTIDOS:/vestidos",
+      "sort": "news"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
@@ -81,13 +89,6 @@
       "limit": "",
       "page": 1,
       "collection_id": "60ba3ca79c7cb4299aa2492b:categories:SHORTS:/shorts"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": "",
-      "page": 1,
-      "collection_id": "60ba3cb39c7cb4299aa24934:categories:VESTIDOS:/vestidos"
     },
     {
       "type": "collection-shelf",
